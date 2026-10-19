@@ -1,0 +1,15 @@
+{
+  "run_type": "preliminary_seed_section_evaluation",
+  "dataset": "questions.seed.jsonl",
+  "dataset_review_status": "needs_human_source_check",
+  "gold_level": "section",
+  "answerable_questions_evaluated": 40,
+  "unanswerable_questions_evaluated": 0,
+  "k": 5,
+  "metrics": {
+    "bm25_hit_at_5": 0.825,
+    "dense_hit_at_5": 0.925,
+    "hybrid_hit_at_5": 0.925
+  },
+  "interpretation": "Preliminary retrieval smoke result only. Labels are seed section labels; the prompts have no reference answers or verified gold chunk IDs and are not a held-out benchmark. Do not present these scores as final project performance."
+}

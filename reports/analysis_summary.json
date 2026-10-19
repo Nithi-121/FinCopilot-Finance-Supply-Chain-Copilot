@@ -1,0 +1,92 @@
+{
+  "database": "data/fincopilot.duckdb",
+  "financial_rows": 644,
+  "company_count": 5,
+  "metric_count": 8,
+  "forecast_series": 36,
+  "anomaly_candidates": 34,
+  "companies": [
+    "AAPL",
+    "ACN",
+    "HPE",
+    "MSFT",
+    "NVDA"
+  ],
+  "coverage_rows": 36,
+  "anomaly_count_groups": 21,
+  "forecast_mape_comparison": [
+    {
+      "metric": "eps",
+      "series_count": 5,
+      "last_value_median_mape_percent": 14.4714416126,
+      "linear_trend_median_mape_percent": 33.6742262079,
+      "selected_last_value": 3,
+      "selected_linear_trend": 2
+    },
+    {
+      "metric": "gross margin",
+      "series_count": 3,
+      "last_value_median_mape_percent": 3.9727161462,
+      "linear_trend_median_mape_percent": 8.208105452,
+      "selected_last_value": 2,
+      "selected_linear_trend": 1
+    },
+    {
+      "metric": "gross profit",
+      "series_count": 3,
+      "last_value_median_mape_percent": 12.423032918,
+      "linear_trend_median_mape_percent": 27.0033861141,
+      "selected_last_value": 3,
+      "selected_linear_trend": 0
+    },
+    {
+      "metric": "net income",
+      "series_count": 5,
+      "last_value_median_mape_percent": 14.2994465825,
+      "linear_trend_median_mape_percent": 33.5430041658,
+      "selected_last_value": 3,
+      "selected_linear_trend": 2
+    },
+    {
+      "metric": "operating cash flow",
+      "series_count": 5,
+      "last_value_median_mape_percent": 16.0186834318,
+      "linear_trend_median_mape_percent": 28.5791121961,
+      "selected_last_value": 4,
+      "selected_linear_trend": 1
+    },
+    {
+      "metric": "operating income",
+      "series_count": 5,
+      "last_value_median_mape_percent": 14.6253493808,
+      "linear_trend_median_mape_percent": 33.7904227714,
+      "selected_last_value": 4,
+      "selected_linear_trend": 1
+    },
+    {
+      "metric": "operating margin",
+      "series_count": 5,
+      "last_value_median_mape_percent": 5.7919761238,
+      "linear_trend_median_mape_percent": 16.172099617,
+      "selected_last_value": 3,
+      "selected_linear_trend": 2
+    },
+    {
+      "metric": "revenue",
+      "series_count": 5,
+      "last_value_median_mape_percent": 8.6178577971,
+      "linear_trend_median_mape_percent": 24.167544105,
+      "selected_last_value": 4,
+      "selected_linear_trend": 1
+    }
+  ],
+  "interpretation_note": "Forecasts and anomaly candidates are exploratory baselines, not investment advice or proof of future performance.",
+  "outputs": [
+    "reports/figures/financial_trends.png",
+    "reports/figures/forecast_model_comparison.png",
+    "reports/figures/anomaly_candidates.png",
+    "reports/tables/financial_data_coverage.csv",
+    "reports/tables/forecast_model_comparison.csv",
+    "reports/tables/anomaly_candidate_counts.csv"
+  ]
+}

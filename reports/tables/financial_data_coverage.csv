@@ -1,0 +1,37 @@
+company,metric,observation_count,first_period,last_period,unit
+AAPL,eps,19,2007,2025,USD/shares
+AAPL,gross margin,19,2007,2025,%
+AAPL,gross profit,19,2007,2025,USD
+AAPL,net income,19,2007,2025,USD
+AAPL,operating cash flow,18,2007,2025,USD
+AAPL,operating income,19,2007,2025,USD
+AAPL,operating margin,19,2007,2025,%
+AAPL,revenue,19,2007,2025,USD
+ACN,eps,19,2008,2026,USD/shares
+ACN,net income,19,2008,2026,USD
+ACN,operating cash flow,19,2008,2026,USD
+ACN,operating income,19,2008,2026,USD
+ACN,operating margin,19,2008,2026,%
+ACN,revenue,19,2008,2026,USD
+HPE,eps,13,2013,2025,USD/shares
+HPE,net income,13,2013,2025,USD
+HPE,operating cash flow,12,2014,2025,USD
+HPE,operating income,13,2013,2025,USD
+HPE,operating margin,13,2013,2025,%
+HPE,revenue,13,2013,2025,USD
+MSFT,eps,19,2008,2026,USD/shares
+MSFT,gross margin,19,2008,2026,%
+MSFT,gross profit,19,2008,2026,USD
+MSFT,net income,19,2008,2026,USD
+MSFT,operating cash flow,17,2008,2026,USD
+MSFT,operating income,19,2008,2026,USD
+MSFT,operating margin,19,2008,2026,%
+MSFT,revenue,19,2008,2026,USD
+NVDA,eps,19,2008,2026,USD/shares
+NVDA,gross margin,19,2008,2026,%
+NVDA,gross profit,19,2008,2026,USD
+NVDA,net income,19,2008,2026,USD
+NVDA,operating cash flow,19,2008,2026,USD
+NVDA,operating income,19,2008,2026,USD
+NVDA,operating margin,19,2008,2026,%
+NVDA,revenue,19,2008,2026,USD

@@ -1,0 +1,22 @@
+company,metric,candidate_count
+AAPL,gross margin,1
+AAPL,revenue,2
+ACN,operating margin,1
+ACN,revenue,1
+HPE,eps,1
+HPE,net income,2
+HPE,operating income,1
+HPE,revenue,1
+MSFT,eps,1
+MSFT,net income,1
+MSFT,operating cash flow,2
+MSFT,operating income,2
+MSFT,operating margin,2
+NVDA,eps,1
+NVDA,gross margin,4
+NVDA,gross profit,1
+NVDA,net income,3
+NVDA,operating cash flow,1
+NVDA,operating income,3
+NVDA,operating margin,1
+NVDA,revenue,2

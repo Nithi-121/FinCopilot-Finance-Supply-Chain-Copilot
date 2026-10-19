@@ -1,0 +1,127 @@
+{
+  "created_at_utc": "2026-10-17T10:55:25.296613+00:00",
+  "source": "SEC EDGAR company submissions and filing archives",
+  "filing_count": 15,
+  "files": [
+    {
+      "ticker": "AAPL",
+      "report_date": "2023-09-30",
+      "accession": "0000320193-23-000106",
+      "filename": "AAPL_2023-09-30_0000320193-23-000106.html",
+      "bytes": 1559036,
+      "sha256": "688b3d65db4975787bdd6d37dbe362d68de28c75aa507026ff6ad93157c98a01"
+    },
+    {
+      "ticker": "AAPL",
+      "report_date": "2024-09-28",
+      "accession": "0000320193-24-000123",
+      "filename": "AAPL_2024-09-28_0000320193-24-000123.html",
+      "bytes": 1503892,
+      "sha256": "ffc8121ffd6704bf6e0f48544c49bdc83e87ee3925e290c35b4af0820d07c2b6"
+    },
+    {
+      "ticker": "AAPL",
+      "report_date": "2025-09-27",
+      "accession": "0000320193-25-000079",
+      "filename": "AAPL_2025-09-27_0000320193-25-000079.html",
+      "bytes": 1520320,
+      "sha256": "63d29bf57dcc4a938a3517f215a7ff18c6dcc1a43cfa3e874524d3e09f21235a"
+    },
+    {
+      "ticker": "ACN",
+      "report_date": "2024-08-31",
+      "accession": "0001467373-24-000278",
+      "filename": "ACN_2024-08-31_0001467373-24-000278.html",
+      "bytes": 2789760,
+      "sha256": "44ffc358dedf860d1c634eb84a2a28e7cf3ab785aa6b6384c69cdfd6a7457da7"
+    },
+    {
+      "ticker": "ACN",
+      "report_date": "2025-08-31",
+      "accession": "0001467373-25-000217",
+      "filename": "ACN_2025-08-31_0001467373-25-000217.html",
+      "bytes": 2819361,
+      "sha256": "4383ce2d7f76d318802672b4ed7bfb83ba06bc315bcb6bf157a6c8b32931a274"
+    },
+    {
+      "ticker": "ACN",
+      "report_date": "2026-08-31",
+      "accession": "0001467373-26-000049",
+      "filename": "ACN_2026-08-31_0001467373-26-000049.html",
+      "bytes": 2842955,
+      "sha256": "8af47171ca3f4b4d7cd4fcbb56806d6cc0d87ea3fd502b16222403f5c68483b5"
+    },
+    {
+      "ticker": "HPE",
+      "report_date": "2023-10-31",
+      "accession": "0001645590-23-000117",
+      "filename": "HPE_2023-10-31_0001645590-23-000117.html",
+      "bytes": 4359652,
+      "sha256": "cae8e88850202ab58936b4ccd7994dffc9121391756e628fa62c5f2d0cacf94c"
+    },
+    {
+      "ticker": "HPE",
+      "report_date": "2024-10-31",
+      "accession": "0001645590-24-000139",
+      "filename": "HPE_2024-10-31_0001645590-24-000139.html",
+      "bytes": 4464796,
+      "sha256": "1ec484515d0c5e82193586a2316315ffc36685b19bfa5421ce7faccb9b77fb0c"
+    },
+    {
+      "ticker": "HPE",
+      "report_date": "2025-10-31",
+      "accession": "0001645590-25-000130",
+      "filename": "HPE_2025-10-31_0001645590-25-000130.html",
+      "bytes": 4814595,
+      "sha256": "304bbab1714582be5e109e144699067fb34787f45253fc4d3084fed3d1932c26"
+    },
+    {
+      "ticker": "MSFT",
+      "report_date": "2024-06-30",
+      "accession": "0000950170-24-087843",
+      "filename": "MSFT_2024-06-30_0000950170-24-087843.html",
+      "bytes": 6861023,
+      "sha256": "eddc3bc0dbfe13774d5cf80f3ea3c7fe8d5faa3f1d86ac34957ab5eec593357e"
+    },
+    {
+      "ticker": "MSFT",
+      "report_date": "2025-06-30",
+      "accession": "0000950170-25-100235",
+      "filename": "MSFT_2025-06-30_0000950170-25-100235.html",
+      "bytes": 8158179,
+      "sha256": "de6b5a46e28130bd4711f896d0f91881bdd5195aa8048d54c6b5a052143665f8"
+    },
+    {
+      "ticker": "MSFT",
+      "report_date": "2026-06-30",
+      "accession": "0001193125-26-323660",
+      "filename": "MSFT_2026-06-30_0001193125-26-323660.html",
+      "bytes": 8585613,
+      "sha256": "6a3e5ada11c717d0894208732249ab9366370d0a189ef80670bac5923ca28a5e"
+    },
+    {
+      "ticker": "NVDA",
+      "report_date": "2024-01-28",
+      "accession": "0001045810-24-000029",
+      "filename": "NVDA_2024-01-28_0001045810-24-000029.html",
+      "bytes": 2085678,
+      "sha256": "95ef92fbe42373c035c7125f2a204f2f9a6f57218c86d5b544ef8b354f177f2d"
+    },
+    {
+      "ticker": "NVDA",
+      "report_date": "2025-01-26",
+      "accession": "0001045810-25-000023",
+      "filename": "NVDA_2025-01-26_0001045810-25-000023.html",
+      "bytes": 2067632,
+      "sha256": "7ba48c4a159f9d17518ac8cc1325892967dc902d35a712ffec23aaff6f77ff17"
+    },
+    {
+      "ticker": "NVDA",
+      "report_date": "2026-01-25",
+      "accession": "0001045810-26-000021",
+      "filename": "NVDA_2026-01-25_0001045810-26-000021.html",
+      "bytes": 1967928,
+      "sha256": "49efd4ef2b09b8d81ddeca9fbaa9036bfb8311d92dbd1e2c232b5dde34509608"
+    }
+  ]
+}
